@@ -1,6 +1,6 @@
 {
-  "name": "update-pull-request",
-  "version": "0.0.1",
+  "name": "adam-kovacs-snap/update-pull-request",
+  "version": "0.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
